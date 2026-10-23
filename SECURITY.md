@@ -1,0 +1,2 @@
+# Security
+This is a local demonstration, not a hosted service. It has **no authentication, rate limiting, persistence, abuse protection or production-grade validation**. The HTTP server binds to `127.0.0.1` only. Do not expose it through a tunnel or deploy it on the public internet. Do not enter real customer information. The sample dataset is wholly synthetic. No security audit has been performed.

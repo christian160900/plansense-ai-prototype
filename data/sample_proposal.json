@@ -1,0 +1,9 @@
+{
+  "address":"24 Greenfield Road, Example Borough, London (FICTIONAL)",
+  "authority":"Example Borough Council (FICTIONAL)",
+  "proposal_type":"rear_extension",
+  "description":"Single-storey rear extension to create larger kitchen and dining room",
+  "latitude":51.5100,
+  "longitude":-0.1000,
+  "constraints":{"conservation_area":false,"article_4":false,"listed_building":false,"flood_risk":null}
+}

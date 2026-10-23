@@ -1,0 +1,79 @@
+[
+  {
+    "id": "SYN-001",
+    "proposal_type": "rear_extension",
+    "authority": "Example Borough Council (FICTIONAL)",
+    "outcome": "approved",
+    "description": "Single storey rear extension creating kitchen and dining accommodation",
+    "decision_text": "Design and daylight impacts acceptable",
+    "latitude": 51.5105,
+    "longitude": -0.101,
+    "source_label": "SYN-001 \u2014 SYNTHETIC, NOT A REAL CASE"
+  },
+  {
+    "id": "SYN-002",
+    "proposal_type": "rear_extension",
+    "authority": "Example Borough Council (FICTIONAL)",
+    "outcome": "refused",
+    "description": "Large rear extension and substantial rear projection",
+    "decision_text": "Excessive depth creates loss of light and overbearing design",
+    "latitude": 51.509,
+    "longitude": -0.1005,
+    "source_label": "SYN-002 \u2014 SYNTHETIC, NOT A REAL CASE"
+  },
+  {
+    "id": "SYN-003",
+    "proposal_type": "rear_extension",
+    "authority": "Example Borough Council (FICTIONAL)",
+    "outcome": "approved",
+    "description": "Single storey rear kitchen extension",
+    "decision_text": "Suitable design and no harmful overlooking",
+    "latitude": 51.512,
+    "longitude": -0.104,
+    "source_label": "SYN-003 \u2014 SYNTHETIC, NOT A REAL CASE"
+  },
+  {
+    "id": "SYN-004",
+    "proposal_type": "hmo_conversion",
+    "authority": "Example Borough Council (FICTIONAL)",
+    "outcome": "refused",
+    "description": "Convert residential house to HMO",
+    "decision_text": "Parking pressure and noise disturbance",
+    "latitude": 51.513,
+    "longitude": -0.102,
+    "source_label": "SYN-004 \u2014 SYNTHETIC, NOT A REAL CASE"
+  },
+  {
+    "id": "SYN-005",
+    "proposal_type": "garage_conversion",
+    "authority": "Example Borough Council (FICTIONAL)",
+    "outcome": "approved",
+    "description": "Garage conversion to habitable accommodation",
+    "decision_text": "No design harm",
+    "latitude": 51.507,
+    "longitude": -0.097,
+    "source_label": "SYN-005 \u2014 SYNTHETIC, NOT A REAL CASE"
+  },
+  {
+    "id": "SYN-006",
+    "proposal_type": "rear_extension",
+    "authority": "Example Borough Council (FICTIONAL)",
+    "outcome": "refused",
+    "description": "Deep single storey rear extension",
+    "decision_text": "Loss of light and privacy concerns",
+    "latitude": 51.508,
+    "longitude": -0.105,
+    "source_label": "SYN-006 \u2014 SYNTHETIC, NOT A REAL CASE"
+  },
+  {
+    "id": "SYN-007",
+    "proposal_type": "rear_extension",
+    "authority": "Example Borough Council (FICTIONAL)",
+    "outcome": "approved",
+    "description": "Rear kitchen enlargement with a small extension",
+    "decision_text": "Design compatible with street character",
+    "latitude": 51.52,
+    "longitude": -0.115,
+    "source_label": "SYN-007 \u2014 SYNTHETIC, NOT A REAL CASE"
+  }
+]
